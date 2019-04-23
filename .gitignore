@@ -1,0 +1,12 @@
+#Unreal 
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+#Starter Content
+Content/StarterContent/
+
+#Visual Studio
+.vs/
